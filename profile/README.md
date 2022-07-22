@@ -1,1 +1,1 @@
-Start building and growing in app subscriptions
+<img src="https://media.glassfy.io/banner_purple.png" />
